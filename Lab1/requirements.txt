@@ -1,0 +1,14 @@
+
+# -- --------------------------------------------------------------------------------------------------- -- #
+# -- project: OrderBook and Public Trade Metrics, inferences and plotly graphs                           -- #
+# -- script: requirements.txt : text file with the required libraries for the project                    -- #
+# -- author: @EstebanMqz                                                                                 -- #
+# -- license: GPL-3.0 License                                                                            -- #
+# -- repository: https://github.com/EstebanMqz/Microstructures                                                                                          -- #
+# -- --------------------------------------------------------------------------------------------------- -- #
+
+pandas>=1.1.0
+numpy>=1.19.1
+jupyter>=1.0.0
+chart_studio>=1.1
+plotly>=4.14
